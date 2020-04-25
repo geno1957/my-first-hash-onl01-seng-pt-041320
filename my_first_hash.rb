@@ -24,7 +24,7 @@ def retrieval
                  }
 
   # Look up the value of the "oil paintings" key in the shipping_manifest hash belowship
-  shipping_manifest[oil]
+  shipping_manifest["oil painting"]
 end
 
 def adding
