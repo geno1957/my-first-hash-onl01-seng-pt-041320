@@ -7,7 +7,7 @@ def my_hash
 
 
 def shipping_manifest
- shipping_manifest = {""
+ shipping_manifest = 
 
 
 end
